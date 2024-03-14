@@ -1,5 +1,6 @@
 package strings;
-
+//Write a method accepting a string and returning true if "good" appears 
+//either at index 0 or 1 of the given string (see String.startsWith() method).
 public class GoodAroundTheBeginning {
 
     public static boolean goodAroundTheBeginning(String string) {
