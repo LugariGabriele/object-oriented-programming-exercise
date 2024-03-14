@@ -1,5 +1,6 @@
 package strings;
-
+//Write a method accepting a string and returning a boolean value. 
+//The function returns true if "good" appears at the beginning of the string (see String.charAt() method).
 public class GoodAtTheBeginning {
 
     public static boolean goodAtTheBeginning(String string) {
