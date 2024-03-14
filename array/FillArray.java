@@ -1,5 +1,6 @@
 package array;
-
+//Write a method returning a double[] already filled with values
+// if addNoise true all the elements have to be randomized between plus or minus 5 percent of value.
 import java.util.Random;
 
 public class FillArray {
