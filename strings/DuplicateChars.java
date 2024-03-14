@@ -1,5 +1,7 @@
 package strings;
-
+//Write a method accepting a string and returning all recurring characters contained into the string as a char[]. More specifically, recurring characters 
+//have to be returned in alphabetical order (see String.valueOf(), String.contains(), String.toCharArray()). 
+//For example: headmistressship -> [e,h,i,s].
 public class DuplicateChars {
     public static char[] duplicateChars(String string) {
         StringBuilder seen = new StringBuilder();
